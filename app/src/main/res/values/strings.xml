@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toko Hijab</string>
+    //Layout
+    <string name="pilih_gambar">(Tekan gambar untuk membuka galeri)</string>
+    <string name="biodata">TOKO HIJAB.id</string>
+
+    //Biodata
+    <string name="biodata_judul">BIODATA</string>
+    <string name="nama_bio">NAMA : NURMAYANI ROHMANTIKA</string>
+    <string name="nim_bio">NIM   : 200602022</string>
+    <string name="kelas_bio">KELAS : TEKNIK INFORMATIKA A3</string>
+    <string name="alamat_bio">ALAMAT : DASAN CERMEN</string>
+    <string name="e_mail_bio">E-mail : nurmayanirohmantika@gmail.com</string>
+
+    //Data Hijab Pashmina
+    <string name="plisket_nama">Pashmina Plisket</string>
+    <string name="plisket_bahan">Bahan Ceruty Premium</string>
+    <string name="plisket_deskripsi">Full Plisket tanpa garis tengah,Ukuran 180x75 cm( Setelah diplisket kurang lebih bisa jadi 65 cm</string>
+    <string name="babydol_nama">Pashmina Ceruty Babydoll</string>
+    <string name="babydol_bahan">Bahan Ceruty Grade A Premium</string>
+    <string name="babydol_deskripsi">Ukuran 75x180cm(-+5cm),Jahitan tepi rapi,Adem</string>
+    <string name="cricnle_nama">Pashmina Crincle</string>
+    <string name="crincle_bahan">Bahan Katun Handmade</string>
+    <string name="crincle_deskripsi">Ukuran 100x200cm (Bisa dijadikan hijab segiempat),Bahan adem,tidak nerawang,lebar,mudah dibentuk,tidak perlu disetrika</string>
+    <string name="payet_nama">Pashmina Payet Bunga</string>
+    <string name="payet_bahan">Bahan Ceruty Babydoll</string>
+    <string name="payet_deskripsi">Tidak mudah kusut, Lembut ,Tidak panas Elegan , mewah dan trendy</string>
+    <string name="pmotif_nama">Pashmina Motif</string>
+    <string name="pmotif_bahan">Bahan Satin</string>
+    <string name="pmotif_deskripsi">Mudah dibentuk dan terasa nyaman dikenakan sepanjang hari.</string>
+    <string name="ptali_nama">Pashmina Tali</string>
+    <string name="ptali_bahan">Bahan Diamond Italiano Premium</string>
+    <string name="ptali_deskripsi">Ukuran 175x75cm Bahan adem,tidak nerawang,mudah dibentuk</string>
+
+   //Data Hijab Segi Empat
+    <string name="square_nama">Bella Suare</string>
+    <string name="square_bahan">Bahan Katun</string>
+    <string name="square_deskripsi">Ukuran 115x115cm,Jahit tepi rapi neci,Lembut tidak mengkerut,Tegak didahi</string>
+    <string name="cornskin_nama">Segi Empat Cornskin</string>
+    <string name="cornskin_bahan">Bahan Cornskin Premium</string>
+    <string name="cornskin_deskripsi">Ukuran 115x115cm,Bahan adem,Tegak didahi</string>
+    <string name="voal_nama">Segi Empat Voal Motif</string>
+    <string name="voal_bahan">Bahan Voal Premium</string>
+    <string name="voal_deskripsi">Ukuran 110x110cm,Jahitan lasercut sangat rapi,Tegak didahi</string>
+    <string name="splisket_nama">Segi Empat Plisket</string>
+    <string name="splisket_bahan">"Bahan Ceruty Babydoll Premium "</string>
+    <string name="splisket_deskripsi">Ukuran 115x115cm,sudah pasti ironless tidak perlu disetrika lagi saat dipakai, mudah bgt dibentuk</string>
+    <string name="syari_nama">Segi Empat Syar\'i</string>
+    <string name="syari_bahan">Bahan Wolfis</string>
+    <string name="syari_deskripsi">Ukuran 130x130cm,nggak  nerawang, permukaan halus, mudah dibentuk</string>
+
+    //Data Hijab Bergo
+    <string name="padi_nama">Bergo Plisket Padi</string>
+    <string name="padi_bahan">Bahan Ceruty</string>
+    <string name="padi_deskripsi">Lebih adem,Menyerap Keringat,Ringan dipakai,Tali pisah</string>
+    <string name="maryam_nama">Bergo Maryam</string>
+    <string name="maryam_bahan">Bahan Diamond Mouscrepe</string>
+    <string name="maryam_deskripsi">Kain jatuh,serat seperti jeruk halus,Lebih ringan,lentur dan mudah menyesuaikan bentuk wajah</string>
+    <string name="sport_nama">Bergo Sport</string>
+    <string name="sport_bahan">Bahan Jersey Higet</string>
+    <string name="sport_deskripsi">Adem menyerap keringat,Pet anti tembem,cocok dipakai olahraga,Ukuran depan(ujung pet)45cm dan belakang 55cm</string>
+    <string name="lidi_nama">Bergo Plisket Lidi</string>
+    <string name="lidi_bahan">Bahan Ceruty Babydoll Armany Original</string>
+    <string name="lidi_deskripsi">Bisa dipakai casual atau formal tetap nyaman/adem,Pet Antem bikin cantik dipakai,Jahitan  rapi</string>
+    <string name="rempel_nama">Bergo Rempel</string>
+    <string name="rempel_bahan">Bahan Diamond italiano</string>
+    <string name="rempel_deskripsi">Jahitan super rapi,tidak nerawang</string>
+    //List Hijab
+    <string name="list_hijab">"DAFTAR  HIJAB "</string>
+    //Title Hijab
+    <string name="pashmina_title">Pashmina</string>
+    <string name="square_title">Segi Empat</string>
+    <string name="bergo_title">Bergo</string>
+    //Back
+    <string name="kembali">Kembali</string>
+    <string name="kembali_profile">Kembali</string>
+
+
+</resources>
